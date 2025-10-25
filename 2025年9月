@@ -1,0 +1,501 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "layout": "vertical",
+    "contents": [
+      {
+        "layout": "horizontal",
+        "borderColor": "#ff0000",
+        "contents": [
+          {
+            "layout": "baseline",
+            "contents": [
+              {
+                "offsetTop": "4px",
+                "margin": "sm",
+                "size": "lg",
+                "type": "icon",
+                "url": "https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s48-rw"
+              },
+              {
+                "margin": "sm",
+                "color": "#250d00",
+                "weight": "bold",
+                "text": "YouTube 入善町公式チャンネル",
+                "type": "text"
+              }
+            ],
+            "type": "box"
+          }
+        ],
+        "borderWidth": "none",
+        "type": "box"
+      },
+      {
+        "size": "28px",
+        "color": "#250d00",
+        "weight": "bold",
+        "text": "視聴回数ランキング",
+        "type": "text",
+        "align": "center"
+      },
+      {
+        "layout": "vertical",
+        "backgroundColor": "#250d00",
+        "margin": "md",
+        "contents": [
+          {
+            "color": "#ffffff",
+            "size": "lg",
+            "weight": "bold",
+            "text": "2025年9月（月間）",
+            "type": "text",
+            "align": "center"
+          }
+        ],
+        "type": "box"
+      }
+    ],
+    "type": "box"
+  },
+  "body": {
+    "layout": "vertical",
+    "contents": [
+      {
+        "layout": "horizontal",
+        "margin": "none",
+        "contents": [
+          {
+            "layout": "vertical",
+            "offsetTop": "xl",
+            "backgroundColor": "#250000",
+            "contents": [
+              {
+                "offsetTop": "3px",
+                "size": "xl",
+                "color": "#ffffff",
+                "gravity": "center",
+                "weight": "bold",
+                "text": "1",
+                "type": "text",
+                "align": "center"
+              }
+            ],
+            "width": "35px",
+            "type": "box",
+            "cornerRadius": "xxl",
+            "height": "35px"
+          },
+          {
+            "margin": "sm",
+            "size": "full",
+            "gravity": "top",
+            "aspectMode": "fit",
+            "aspectRatio": "1.5:1",
+            "type": "image",
+            "url": "https://i.ytimg.com/vi/lx2LTLBAeaE/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXw0uazT0JDvhPXGAt_7DDoewZ5w"
+          },
+          {
+            "layout": "vertical",
+            "margin": "md",
+            "contents": [
+              {
+                "color": "#250d00",
+                "weight": "bold",
+                "text": "令和7年度国勢調査はインターネット回答が便利です [2:45]",
+                "type": "text",
+                "wrap": true
+              },
+              {
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "size": "xs",
+                    "text": "視聴回数:3,760回",
+                    "type": "text"
+                  }
+                ],
+                "type": "box"
+              }
+            ],
+            "type": "box"
+          }
+        ],
+        "action": {
+          "label": "action",
+          "type": "uri",
+          "uri": "https://youtu.be/lx2LTLBAeaE"
+        },
+        "type": "box"
+      },
+      {
+        "layout": "horizontal",
+        "margin": "none",
+        "contents": [
+          {
+            "layout": "vertical",
+            "offsetTop": "xl",
+            "backgroundColor": "#250000",
+            "contents": [
+              {
+                "offsetTop": "3px",
+                "size": "xl",
+                "color": "#ffffff",
+                "gravity": "center",
+                "weight": "bold",
+                "text": "2",
+                "type": "text",
+                "align": "center"
+              }
+            ],
+            "width": "35px",
+            "type": "box",
+            "cornerRadius": "xxl",
+            "height": "35px"
+          },
+          {
+            "margin": "sm",
+            "size": "full",
+            "gravity": "top",
+            "aspectMode": "fit",
+            "aspectRatio": "1.5:1",
+            "type": "image",
+            "url": "https://i.ytimg.com/vi/r2wIk4OMKhQ/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYUSBaKGUwDw==&rs=AOn4CLCHa1d_jLJJbbOY5TUb-edFLX82Rw"
+          },
+          {
+            "layout": "vertical",
+            "margin": "md",
+            "contents": [
+              {
+                "color": "#250d00",
+                "weight": "bold",
+                "text": "住民税非課税世帯への物価高騰支援給付金について [3:32]",
+                "type": "text",
+                "wrap": true
+              },
+              {
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "size": "xs",
+                    "text": "視聴回数:518回",
+                    "type": "text"
+                  }
+                ],
+                "type": "box"
+              }
+            ],
+            "type": "box"
+          }
+        ],
+        "action": {
+          "label": "action",
+          "type": "uri",
+          "uri": "https://youtu.be/r2wIk4OMKhQ"
+        },
+        "type": "box"
+      },
+      {
+        "layout": "horizontal",
+        "margin": "none",
+        "contents": [
+          {
+            "layout": "vertical",
+            "offsetTop": "xl",
+            "backgroundColor": "#250000",
+            "contents": [
+              {
+                "offsetTop": "3px",
+                "size": "xl",
+                "color": "#ffffff",
+                "gravity": "center",
+                "weight": "bold",
+                "text": "3",
+                "type": "text",
+                "align": "center"
+              }
+            ],
+            "width": "35px",
+            "type": "box",
+            "cornerRadius": "xxl",
+            "height": "35px"
+          },
+          {
+            "margin": "sm",
+            "size": "full",
+            "gravity": "top",
+            "aspectMode": "fit",
+            "aspectRatio": "1.5:1",
+            "type": "image",
+            "url": "https://i.ytimg.com/vi/YHnkv9Tt6E0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBkcYfonfYoaFFlRSiWnFx_nohjUw"
+          },
+          {
+            "layout": "vertical",
+            "margin": "md",
+            "contents": [
+              {
+                "color": "#250d00",
+                "weight": "bold",
+                "text": "要介護認定者に対する障害者控除対象者認定書[3:31]",
+                "type": "text",
+                "wrap": true
+              },
+              {
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "size": "xs",
+                    "text": "視聴回数:435回",
+                    "type": "text"
+                  }
+                ],
+                "type": "box"
+              }
+            ],
+            "type": "box"
+          }
+        ],
+        "action": {
+          "label": "action",
+          "type": "uri",
+          "uri": "https://youtu.be/YHnkv9Tt6E0?si=Lq_93c6-ssM8edGF"
+        },
+        "type": "box"
+      },
+      {
+        "layout": "horizontal",
+        "margin": "none",
+        "contents": [
+          {
+            "layout": "vertical",
+            "offsetTop": "xl",
+            "backgroundColor": "#250000",
+            "contents": [
+              {
+                "offsetTop": "3px",
+                "size": "xl",
+                "color": "#ffffff",
+                "gravity": "center",
+                "weight": "bold",
+                "text": "4",
+                "type": "text",
+                "align": "center"
+              }
+            ],
+            "width": "35px",
+            "type": "box",
+            "cornerRadius": "xxl",
+            "height": "35px"
+          },
+          {
+            "margin": "sm",
+            "size": "full",
+            "gravity": "top",
+            "aspectMode": "fit",
+            "aspectRatio": "1.5:1",
+            "type": "image",
+            "url": "https://i.ytimg.com/vi/PsKKyHVYIQ8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDZSx_xfETEjMbReh9BZakXKs6CmQ"
+          },
+          {
+            "layout": "vertical",
+            "margin": "md",
+            "contents": [
+              {
+                "color": "#250d00",
+                "weight": "bold",
+                "text": "入善町議会 令和7年6月定例会 一般質問 五十里国明議員 [57:31]",
+                "type": "text",
+                "wrap": true
+              },
+              {
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "size": "xs",
+                    "text": "視聴回数:251回",
+                    "type": "text"
+                  }
+                ],
+                "type": "box"
+              }
+            ],
+            "type": "box"
+          }
+        ],
+        "action": {
+          "label": "action",
+          "type": "uri",
+          "uri": "https://youtu.be/PsKKyHVYIQ8"
+        },
+        "type": "box"
+      },
+      {
+        "layout": "horizontal",
+        "margin": "none",
+        "contents": [
+          {
+            "layout": "vertical",
+            "offsetTop": "xl",
+            "backgroundColor": "#250000",
+            "contents": [
+              {
+                "offsetTop": "3px",
+                "size": "xl",
+                "color": "#ffffff",
+                "gravity": "center",
+                "weight": "bold",
+                "text": "5",
+                "type": "text",
+                "align": "center"
+              }
+            ],
+            "width": "35px",
+            "type": "box",
+            "cornerRadius": "xxl",
+            "height": "35px"
+          },
+          {
+            "margin": "sm",
+            "size": "full",
+            "gravity": "top",
+            "aspectMode": "fit",
+            "aspectRatio": "1.5:1",
+            "type": "image",
+            "url": "https://i.ytimg.com/vi/UNmcnU2jSH0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCTwfzQaFZZc_pmMdBYGyx68t2VJw"
+          },
+          {
+            "layout": "vertical",
+            "margin": "md",
+            "contents": [
+              {
+                "color": "#250d00",
+                "weight": "bold",
+                "text": "小型特殊自動車のナンバー登録について [2:52]",
+                "type": "text",
+                "wrap": true
+              },
+              {
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "size": "xs",
+                    "text": "視聴回数:218回",
+                    "type": "text"
+                  }
+                ],
+                "type": "box"
+              }
+            ],
+            "type": "box"
+          }
+        ],
+        "action": {
+          "label": "action",
+          "type": "uri",
+          "uri": "https://youtu.be/UNmcnU2jSH0?si=QsX-Sm-cRf7LVsOs"
+        },
+        "type": "box"
+      }
+    ],
+    "type": "box"
+  },
+  "footer": {
+    "layout": "horizontal",
+    "contents": [
+      {
+        "layout": "vertical",
+        "borderColor": "#ff0000",
+        "contents": [
+          {
+            "layout": "horizontal",
+            "backgroundColor": "#ff0000",
+            "contents": [
+              {
+                "layout": "vertical",
+                "margin": "lg",
+                "contents": [
+                  {
+                    "offsetTop": "5px",
+                    "color": "#ffffff",
+                    "size": "xl",
+                    "gravity": "center",
+                    "offsetStart": "lg",
+                    "text": "▶",
+                    "type": "text",
+                    "align": "center"
+                  }
+                ],
+                "width": "40px",
+                "type": "box"
+              },
+              {
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "margin": "xs",
+                    "size": "sm",
+                    "color": "#ffffff",
+                    "weight": "bold",
+                    "text": "入善町公式",
+                    "type": "text",
+                    "align": "center"
+                  },
+                  {
+                    "size": "sm",
+                    "color": "#ffffff",
+                    "weight": "bold",
+                    "text": "チャンネル",
+                    "type": "text",
+                    "align": "center"
+                  }
+                ],
+                "width": "90px",
+                "offsetStart": "none",
+                "type": "box"
+              }
+            ],
+            "type": "box",
+            "cornerRadius": "md",
+            "height": "40px"
+          }
+        ],
+        "borderWidth": "none",
+        "action": {
+          "label": "action",
+          "type": "uri",
+          "uri": "https://www.youtube.com/channel/UCu-jkM2zGvEMfoFcHABbn8A"
+        },
+        "type": "box",
+        "height": "40px"
+      },
+      {
+        "layout": "vertical",
+        "borderColor": "#111111",
+        "backgroundColor": "#000000",
+        "margin": "lg",
+        "contents": [
+          {
+            "offsetTop": "11px",
+            "color": "#ffffff",
+            "gravity": "center",
+            "weight": "bold",
+            "text": "チャンネル登録",
+            "type": "text",
+            "align": "center"
+          }
+        ],
+        "borderWidth": "none",
+        "action": {
+          "label": "action",
+          "type": "uri",
+          "uri": "http://www.youtube.com/channel/UCu-jkM2zGvEMfoFcHABbn8A?sub_confirmation=1"
+        },
+        "type": "box",
+        "height": "40px",
+        "cornerRadius": "xxl"
+      }
+    ],
+    "type": "box"
+  }
+}
