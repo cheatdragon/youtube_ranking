@@ -49,7 +49,7 @@
             "color": "#ffffff",
             "size": "lg",
             "weight": "bold",
-            "text": "2025年9月（月間）",
+            "text": "2025年10月（月間）",
             "type": "text",
             "align": "center"
           }
@@ -94,7 +94,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/lx2LTLBAeaE/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXw0uazT0JDvhPXGAt_7DDoewZ5w"
+            "url": "https://i.ytimg.com/vi/yHkbQRhNrhw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA7Z0FSdzbYen1W2vYVz8NXdp4Vdg"
           },
           {
             "layout": "vertical",
@@ -103,7 +103,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "令和7年度国勢調査はインターネット回答が便利です [2:45]",
+                "text": "入善町議会 令和7年9月定例会 代表質問 井田義孝議員 [51:47]",
                 "type": "text",
                 "wrap": true
               },
@@ -112,7 +112,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:3,760回",
+                    "text": "視聴回数:313回",
                     "type": "text"
                   }
                 ],
@@ -125,7 +125,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/lx2LTLBAeaE"
+          "uri": "https://youtu.be/yHkbQRhNrhw"
         },
         "type": "box"
       },
@@ -161,7 +161,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/r2wIk4OMKhQ/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYUSBaKGUwDw==&rs=AOn4CLCHa1d_jLJJbbOY5TUb-edFLX82Rw"
+            "url": "https://i.ytimg.com/vi/YHnkv9Tt6E0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBkcYfonfYoaFFlRSiWnFx_nohjUw"
           },
           {
             "layout": "vertical",
@@ -170,7 +170,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "住民税非課税世帯への物価高騰支援給付金について [3:32]",
+                "text": "要介護認定者に対する障害者控除対象者認定書 [3:31]",
                 "type": "text",
                 "wrap": true
               },
@@ -179,7 +179,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:518回",
+                    "text": "視聴回数:209回",
                     "type": "text"
                   }
                 ],
@@ -192,7 +192,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/r2wIk4OMKhQ"
+          "uri": "https://youtu.be/YHnkv9Tt6E0?si=Lq_93c6-ssM8edGF"
         },
         "type": "box"
       },
@@ -228,7 +228,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/YHnkv9Tt6E0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBkcYfonfYoaFFlRSiWnFx_nohjUw"
+            "url": "https://i.ytimg.com/vi/PsKKyHVYIQ8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDZSx_xfETEjMbReh9BZakXKs6CmQ"
           },
           {
             "layout": "vertical",
@@ -237,7 +237,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "要介護認定者に対する障害者控除対象者認定書[3:31]",
+                "text": "入善町議会 令和7年6月定例会 一般質問 五十里国明議員[57:31]",
                 "type": "text",
                 "wrap": true
               },
@@ -246,7 +246,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:435回",
+                    "text": "視聴回数:153回",
                     "type": "text"
                   }
                 ],
@@ -259,7 +259,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/YHnkv9Tt6E0?si=Lq_93c6-ssM8edGF"
+          "uri": "https://youtu.be/PsKKyHVYIQ8"
         },
         "type": "box"
       },
@@ -295,7 +295,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/PsKKyHVYIQ8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDZSx_xfETEjMbReh9BZakXKs6CmQ"
+            "url": "https://i.ytimg.com/vi/eyP6y0zyD5E/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBaW7FBgTwuZjSKkHxFgiuC3e4WHA"
           },
           {
             "layout": "vertical",
@@ -304,7 +304,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "入善町議会 令和7年6月定例会 一般質問 五十里国明議員 [57:31]",
+                "text": "入善町議会 令和7年9月定例会 一般質問 五十里国明議員 [1:00:39]",
                 "type": "text",
                 "wrap": true
               },
@@ -313,7 +313,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:251回",
+                    "text": "視聴回数:148回",
                     "type": "text"
                   }
                 ],
@@ -326,7 +326,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/PsKKyHVYIQ8"
+          "uri": "https://youtu.be/eyP6y0zyD5E"
         },
         "type": "box"
       },
@@ -380,7 +380,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:218回",
+                    "text": "視聴回数:144回",
                     "type": "text"
                   }
                 ],
