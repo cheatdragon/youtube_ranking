@@ -49,7 +49,7 @@
             "color": "#ffffff",
             "size": "lg",
             "weight": "bold",
-            "text": "2025年10月（月間）",
+            "text": "2025年11月（月間）",
             "type": "text",
             "align": "center"
           }
@@ -94,7 +94,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/yHkbQRhNrhw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA7Z0FSdzbYen1W2vYVz8NXdp4Vdg"
+            "url": "https://i.ytimg.com/vi/YHnkv9Tt6E0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBkcYfonfYoaFFlRSiWnFx_nohjUw"
           },
           {
             "layout": "vertical",
@@ -103,7 +103,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "入善町議会 令和7年9月定例会 代表質問 井田義孝議員 [51:47]",
+                "text": "要介護認定者に対する障害者控除対象者認定書 [3:31]",
                 "type": "text",
                 "wrap": true
               },
@@ -112,7 +112,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:313回",
+                    "text": "視聴回数:236回",
                     "type": "text"
                   }
                 ],
@@ -125,7 +125,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/yHkbQRhNrhw"
+          "uri": "https://youtu.be/YHnkv9Tt6E0?si=Lq_93c6-ssM8edGF"
         },
         "type": "box"
       },
@@ -161,7 +161,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/YHnkv9Tt6E0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBkcYfonfYoaFFlRSiWnFx_nohjUw"
+            "url": "https://i.ytimg.com/vi/UNmcnU2jSH0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCTwfzQaFZZc_pmMdBYGyx68t2VJw"
           },
           {
             "layout": "vertical",
@@ -170,7 +170,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "要介護認定者に対する障害者控除対象者認定書 [3:31]",
+                "text": "小型特殊自動車のナンバー登録について [2:52]",
                 "type": "text",
                 "wrap": true
               },
@@ -192,7 +192,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/YHnkv9Tt6E0?si=Lq_93c6-ssM8edGF"
+          "uri": "https://youtu.be/UNmcnU2jSH0?si=QsX-Sm-cRf7LVsOs"
         },
         "type": "box"
       },
@@ -228,7 +228,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/PsKKyHVYIQ8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDZSx_xfETEjMbReh9BZakXKs6CmQ"
+            "url": "https://i.ytimg.com/vi/6QXK7Bf8kQ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCgmrfYlb3exOQW8xLz999ppyp6Q"
           },
           {
             "layout": "vertical",
@@ -237,7 +237,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "入善町議会 令和7年6月定例会 一般質問 五十里国明議員[57:31]",
+                "text": "【2024年】児童手当の制度改正について[4:15]",
                 "type": "text",
                 "wrap": true
               },
@@ -246,7 +246,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:153回",
+                    "text": "視聴回数:124回",
                     "type": "text"
                   }
                 ],
@@ -259,7 +259,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/PsKKyHVYIQ8"
+          "uri": "https://youtu.be/6QXK7Bf8kQ4?si=URii-XaMKzXfGM7P"
         },
         "type": "box"
       },
@@ -295,7 +295,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/eyP6y0zyD5E/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBaW7FBgTwuZjSKkHxFgiuC3e4WHA"
+            "url": "https://i.ytimg.com/vi/hZW1BI8xqTo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA6f3JjqFKKPk1_t2-KnF5LeH08sQ"
           },
           {
             "layout": "vertical",
@@ -304,7 +304,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "入善町議会 令和7年9月定例会 一般質問 五十里国明議員 [1:00:39]",
+                "text": "高齢者向けのインフルエンザ・新型コロナワクチン接種について [2:52]",
                 "type": "text",
                 "wrap": true
               },
@@ -313,7 +313,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:148回",
+                    "text": "視聴回数:116回",
                     "type": "text"
                   }
                 ],
@@ -326,7 +326,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/eyP6y0zyD5E"
+          "uri": "https://youtu.be/hZW1BI8xqTo"
         },
         "type": "box"
       },
@@ -362,7 +362,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/UNmcnU2jSH0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCTwfzQaFZZc_pmMdBYGyx68t2VJw"
+            "url": "https://i.ytimg.com/vi/b3FyeqPZgcI/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYLCBTKHIwDw==&rs=AOn4CLA05x_HI0ZJuq6zPaFPG9FqyqZqpg"
           },
           {
             "layout": "vertical",
@@ -371,7 +371,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "小型特殊自動車のナンバー登録について [2:52]",
+                "text": "運転免許自主返納者の公共交通利用支援事業について [5:02]",
                 "type": "text",
                 "wrap": true
               },
@@ -380,7 +380,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:144回",
+                    "text": "視聴回数:81回",
                     "type": "text"
                   }
                 ],
@@ -393,7 +393,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/UNmcnU2jSH0?si=QsX-Sm-cRf7LVsOs"
+          "uri": "https://youtu.be/b3FyeqPZgcI"
         },
         "type": "box"
       }
