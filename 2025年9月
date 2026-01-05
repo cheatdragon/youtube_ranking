@@ -49,7 +49,7 @@
             "color": "#ffffff",
             "size": "lg",
             "weight": "bold",
-            "text": "2025年11月（月間）",
+            "text": "2025年12月（月間）",
             "type": "text",
             "align": "center"
           }
@@ -112,7 +112,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:236回",
+                    "text": "視聴回数:320回",
                     "type": "text"
                   }
                 ],
@@ -161,7 +161,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/UNmcnU2jSH0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCTwfzQaFZZc_pmMdBYGyx68t2VJw"
+            "url": "https://i.ytimg.com/vi/eyP6y0zyD5E/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBaW7FBgTwuZjSKkHxFgiuC3e4WHA"
           },
           {
             "layout": "vertical",
@@ -170,7 +170,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "小型特殊自動車のナンバー登録について [2:52]",
+                "text": "入善町議会 令和7年9月定例会 一般質問 五十里国明議員 [1:00:39]",
                 "type": "text",
                 "wrap": true
               },
@@ -179,7 +179,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:209回",
+                    "text": "視聴回数:173回",
                     "type": "text"
                   }
                 ],
@@ -192,7 +192,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/UNmcnU2jSH0?si=QsX-Sm-cRf7LVsOs"
+          "uri": "https://youtu.be/eyP6y0zyD5E"
         },
         "type": "box"
       },
@@ -228,7 +228,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/6QXK7Bf8kQ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCgmrfYlb3exOQW8xLz999ppyp6Q"
+            "url": "https://i.ytimg.com/vi/UNmcnU2jSH0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCTwfzQaFZZc_pmMdBYGyx68t2VJw"
           },
           {
             "layout": "vertical",
@@ -237,7 +237,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "【2024年】児童手当の制度改正について[4:15]",
+                "text": "小型特殊自動車のナンバー登録について[2:52]",
                 "type": "text",
                 "wrap": true
               },
@@ -246,7 +246,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:124回",
+                    "text": "視聴回数:158回",
                     "type": "text"
                   }
                 ],
@@ -259,7 +259,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/6QXK7Bf8kQ4?si=URii-XaMKzXfGM7P"
+          "uri": "https://youtu.be/UNmcnU2jSH0?si=QsX-Sm-cRf7LVsOs"
         },
         "type": "box"
       },
@@ -295,7 +295,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/hZW1BI8xqTo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA6f3JjqFKKPk1_t2-KnF5LeH08sQ"
+            "url": "https://i.ytimg.com/vi/6QXK7Bf8kQ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCgmrfYlb3exOQW8xLz999ppyp6Q"
           },
           {
             "layout": "vertical",
@@ -304,7 +304,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "高齢者向けのインフルエンザ・新型コロナワクチン接種について [2:52]",
+                "text": "【2024年】児童手当の制度改正について [4:15]",
                 "type": "text",
                 "wrap": true
               },
@@ -313,7 +313,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:116回",
+                    "text": "視聴回数:126回",
                     "type": "text"
                   }
                 ],
@@ -326,7 +326,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/hZW1BI8xqTo"
+          "uri": "https://youtu.be/6QXK7Bf8kQ4?si=URii-XaMKzXfGM7P"
         },
         "type": "box"
       },
@@ -380,7 +380,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:81回",
+                    "text": "視聴回数:69回",
                     "type": "text"
                   }
                 ],
