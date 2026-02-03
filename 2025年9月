@@ -49,7 +49,7 @@
             "color": "#ffffff",
             "size": "lg",
             "weight": "bold",
-            "text": "2025年12月（月間）",
+            "text": "2026年1月（月間）",
             "type": "text",
             "align": "center"
           }
@@ -94,7 +94,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/YHnkv9Tt6E0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBkcYfonfYoaFFlRSiWnFx_nohjUw"
+            "url": "https://i.ytimg.com/vi/z3HTQ8tT1kk/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYLyBRKHIwDw==&rs=AOn4CLArtfkEz1zQbDXB6BGl-WLrszZVxA"
           },
           {
             "layout": "vertical",
@@ -103,7 +103,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "要介護認定者に対する障害者控除対象者認定書 [3:31]",
+                "text": "【2026年2月27日】入善町役場 職場見学会のご案内！ [0:55]",
                 "type": "text",
                 "wrap": true
               },
@@ -112,7 +112,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:320回",
+                    "text": "視聴回数:354回",
                     "type": "text"
                   }
                 ],
@@ -125,7 +125,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/YHnkv9Tt6E0?si=Lq_93c6-ssM8edGF"
+          "uri": "https://youtu.be/z3HTQ8tT1kk"
         },
         "type": "box"
       },
@@ -161,7 +161,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/eyP6y0zyD5E/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBaW7FBgTwuZjSKkHxFgiuC3e4WHA"
+            "url": "https://i.ytimg.com/vi/6QXK7Bf8kQ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCgmrfYlb3exOQW8xLz999ppyp6Q"
           },
           {
             "layout": "vertical",
@@ -170,7 +170,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "入善町議会 令和7年9月定例会 一般質問 五十里国明議員 [1:00:39]",
+                "text": "【2024年】児童手当の制度改正について [4:15]",
                 "type": "text",
                 "wrap": true
               },
@@ -179,7 +179,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:173回",
+                    "text": "視聴回数:321回",
                     "type": "text"
                   }
                 ],
@@ -192,7 +192,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/eyP6y0zyD5E"
+          "uri": "https://youtu.be/6QXK7Bf8kQ4?si=URii-XaMKzXfGM7P"
         },
         "type": "box"
       },
@@ -228,7 +228,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/UNmcnU2jSH0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCTwfzQaFZZc_pmMdBYGyx68t2VJw"
+            "url": "https://i.ytimg.com/vi/0uQ15ByqRsQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA_VWnvjhNHe6ZK-JWPKzYTiIrVTQ"
           },
           {
             "layout": "vertical",
@@ -237,7 +237,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "小型特殊自動車のナンバー登録について[2:52]",
+                "text": "要介護認定者に対する障害者控除対象者認定書[3:23]",
                 "type": "text",
                 "wrap": true
               },
@@ -246,7 +246,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:158回",
+                    "text": "視聴回数:221回",
                     "type": "text"
                   }
                 ],
@@ -259,7 +259,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/UNmcnU2jSH0?si=QsX-Sm-cRf7LVsOs"
+          "uri": "https://youtu.be/0uQ15ByqRsQ"
         },
         "type": "box"
       },
@@ -295,7 +295,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/6QXK7Bf8kQ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCgmrfYlb3exOQW8xLz999ppyp6Q"
+            "url": "https://i.ytimg.com/vi/UNmcnU2jSH0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCTwfzQaFZZc_pmMdBYGyx68t2VJw"
           },
           {
             "layout": "vertical",
@@ -304,7 +304,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "【2024年】児童手当の制度改正について [4:15]",
+                "text": "小型特殊自動車のナンバー登録について [2:52]",
                 "type": "text",
                 "wrap": true
               },
@@ -313,7 +313,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:126回",
+                    "text": "視聴回数:198回",
                     "type": "text"
                   }
                 ],
@@ -326,7 +326,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/6QXK7Bf8kQ4?si=URii-XaMKzXfGM7P"
+          "uri": "https://youtu.be/UNmcnU2jSH0?si=QsX-Sm-cRf7LVsOs"
         },
         "type": "box"
       },
@@ -362,7 +362,7 @@
             "aspectMode": "fit",
             "aspectRatio": "1.5:1",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/b3FyeqPZgcI/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYLCBTKHIwDw==&rs=AOn4CLA05x_HI0ZJuq6zPaFPG9FqyqZqpg"
+            "url": "https://i.ytimg.com/vi/e5NWj_-NsOQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA49OCmyBS20SwGhPRO4q7YWAoAgg"
           },
           {
             "layout": "vertical",
@@ -371,7 +371,7 @@
               {
                 "color": "#250d00",
                 "weight": "bold",
-                "text": "運転免許自主返納者の公共交通利用支援事業について [5:02]",
+                "text": "移住・定住PR動画#1［20歳に聞く地元のいいトコ］ [1:45]",
                 "type": "text",
                 "wrap": true
               },
@@ -380,7 +380,7 @@
                 "contents": [
                   {
                     "size": "xs",
-                    "text": "視聴回数:69回",
+                    "text": "視聴回数:138回",
                     "type": "text"
                   }
                 ],
@@ -393,7 +393,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/b3FyeqPZgcI"
+          "uri": "https://youtu.be/e5NWj_-NsOQ"
         },
         "type": "box"
       }
