@@ -6,7 +6,7 @@
     "contents": [
       {
         "layout": "horizontal",
-        "borderColor": "#ff0000",
+        "borderColor": "#C77E7B",
         "contents": [
           {
             "layout": "baseline",
@@ -20,7 +20,7 @@
               },
               {
                 "margin": "sm",
-                "color": "#250d00",
+                "color": "#4A3C39",
                 "weight": "bold",
                 "text": "YouTube 入善町公式チャンネル",
                 "type": "text"
@@ -34,7 +34,7 @@
       },
       {
         "size": "28px",
-        "color": "#250d00",
+        "color": "#4A3C39",
         "weight": "bold",
         "text": "視聴回数ランキング",
         "type": "text",
@@ -42,7 +42,7 @@
       },
       {
         "layout": "vertical",
-        "backgroundColor": "#250d00",
+        "backgroundColor": "#4A3C39",
         "margin": "md",
         "contents": [
           {
@@ -67,12 +67,11 @@
         "margin": "none",
         "contents": [
           {
-            "layout": "vertical",
+            "layout": "horizontal",
             "offsetTop": "xl",
-            "backgroundColor": "#250000",
+            "backgroundColor": "#B89B58",
             "contents": [
               {
-                "offsetTop": "3px",
                 "size": "xl",
                 "color": "#ffffff",
                 "gravity": "center",
@@ -101,7 +100,7 @@
             "margin": "md",
             "contents": [
               {
-                "color": "#250d00",
+                "color": "#4A3C39",
                 "weight": "bold",
                 "text": "入善町LINE公式アカウントで確定申告相談の予約 [4:59]",
                 "type": "text",
@@ -112,6 +111,7 @@
                 "contents": [
                   {
                     "size": "xs",
+                    "color": "#7A6C6A",
                     "text": "視聴回数:753回",
                     "type": "text"
                   }
@@ -134,12 +134,11 @@
         "margin": "none",
         "contents": [
           {
-            "layout": "vertical",
+            "layout": "horizontal",
             "offsetTop": "xl",
-            "backgroundColor": "#250000",
+            "backgroundColor": "#A3A0AA",
             "contents": [
               {
-                "offsetTop": "3px",
                 "size": "xl",
                 "color": "#ffffff",
                 "gravity": "center",
@@ -168,7 +167,7 @@
             "margin": "md",
             "contents": [
               {
-                "color": "#250d00",
+                "color": "#4A3C39",
                 "weight": "bold",
                 "text": "入善町定住促進住宅のお知らせ [4:45]",
                 "type": "text",
@@ -179,6 +178,7 @@
                 "contents": [
                   {
                     "size": "xs",
+                    "color": "#7A6C6A",
                     "text": "視聴回数:608回",
                     "type": "text"
                   }
@@ -201,12 +201,11 @@
         "margin": "none",
         "contents": [
           {
-            "layout": "vertical",
+            "layout": "horizontal",
             "offsetTop": "xl",
-            "backgroundColor": "#250000",
+            "backgroundColor": "#B8846E",
             "contents": [
               {
-                "offsetTop": "3px",
                 "size": "xl",
                 "color": "#ffffff",
                 "gravity": "center",
@@ -235,7 +234,7 @@
             "margin": "md",
             "contents": [
               {
-                "color": "#250d00",
+                "color": "#4A3C39",
                 "weight": "bold",
                 "text": "要介護認定者に対する障害者控除対象者認定書[3:23]",
                 "type": "text",
@@ -246,6 +245,7 @@
                 "contents": [
                   {
                     "size": "xs",
+                    "color": "#7A6C6A",
                     "text": "視聴回数:473回",
                     "type": "text"
                   }
@@ -268,12 +268,11 @@
         "margin": "none",
         "contents": [
           {
-            "layout": "vertical",
+            "layout": "horizontal",
             "offsetTop": "xl",
-            "backgroundColor": "#250000",
+            "backgroundColor": "#D9BDBA",
             "contents": [
               {
-                "offsetTop": "3px",
                 "size": "xl",
                 "color": "#ffffff",
                 "gravity": "center",
@@ -302,7 +301,7 @@
             "margin": "md",
             "contents": [
               {
-                "color": "#250d00",
+                "color": "#4A3C39",
                 "weight": "bold",
                 "text": "【2024年】児童手当の制度改正について [4:15]",
                 "type": "text",
@@ -313,6 +312,7 @@
                 "contents": [
                   {
                     "size": "xs",
+                    "color": "#7A6C6A",
                     "text": "視聴回数:334回",
                     "type": "text"
                   }
@@ -335,12 +335,11 @@
         "margin": "none",
         "contents": [
           {
-            "layout": "vertical",
+            "layout": "horizontal",
             "offsetTop": "xl",
-            "backgroundColor": "#250000",
+            "backgroundColor": "#D9BDBA",
             "contents": [
               {
-                "offsetTop": "3px",
                 "size": "xl",
                 "color": "#ffffff",
                 "gravity": "center",
@@ -369,7 +368,7 @@
             "margin": "md",
             "contents": [
               {
-                "color": "#250d00",
+                "color": "#4A3C39",
                 "weight": "bold",
                 "text": "小型特殊自動車のナンバー登録について [2:52]",
                 "type": "text",
@@ -380,6 +379,7 @@
                 "contents": [
                   {
                     "size": "xs",
+                    "color": "#7A6C6A",
                     "text": "視聴回数:182回",
                     "type": "text"
                   }
@@ -405,11 +405,11 @@
     "contents": [
       {
         "layout": "vertical",
-        "borderColor": "#ff0000",
+        "borderColor": "#C77E7B",
         "contents": [
           {
             "layout": "horizontal",
-            "backgroundColor": "#ff0000",
+            "backgroundColor": "#C77E7B",
             "contents": [
               {
                 "layout": "vertical",
@@ -471,8 +471,8 @@
       },
       {
         "layout": "vertical",
-        "borderColor": "#111111",
-        "backgroundColor": "#000000",
+        "borderColor": "#7A6C6A",
+        "backgroundColor": "#7A6C6A",
         "margin": "lg",
         "contents": [
           {
