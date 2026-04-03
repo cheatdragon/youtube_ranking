@@ -49,7 +49,7 @@
             "color": "#ffffff",
             "size": "lg",
             "weight": "bold",
-            "text": "2026年2月（月間）",
+            "text": "2026年3月（月間）",
             "type": "text",
             "align": "center"
           }
@@ -90,10 +90,10 @@
             "margin": "sm",
             "size": "full",
             "gravity": "top",
-            "aspectMode": "fit",
-            "aspectRatio": "1.5:1",
+            "aspectMode": "cover",
+            "aspectRatio": "16:9",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/ZVXzvVcJxcI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDgj2lF-iMiGna3HztGq8cx6FiPjw"
+            "url": "https://i.ytimg.com/vi/0uQ15ByqRsQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDgj2lF-iMiGna3HztGq8cx6FiPjw"
           },
           {
             "layout": "vertical",
@@ -102,7 +102,7 @@
               {
                 "color": "#4A3C39",
                 "weight": "bold",
-                "text": "入善町LINE公式アカウントで確定申告相談の予約 [4:59]",
+                "text": "要介護認定者の障害者控除認定書の交付について [3:23]",
                 "type": "text",
                 "wrap": true
               },
@@ -112,7 +112,7 @@
                   {
                     "size": "xs",
                     "color": "#7A6C6A",
-                    "text": "視聴回数:753回",
+                    "text": "視聴回数:403回",
                     "type": "text"
                   }
                 ],
@@ -125,13 +125,13 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/ZVXzvVcJxcI"
+          "uri": "https://youtu.be/0uQ15ByqRsQ"
         },
         "type": "box"
       },
       {
         "layout": "horizontal",
-        "margin": "none",
+        "margin": "md",
         "contents": [
           {
             "layout": "horizontal",
@@ -157,10 +157,10 @@
             "margin": "sm",
             "size": "full",
             "gravity": "top",
-            "aspectMode": "fit",
-            "aspectRatio": "1.5:1",
+            "aspectMode": "cover",
+            "aspectRatio": "16:9",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/9mBK-R-1bBM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDkRz7mUM-dKo1U3sS-WJhpkLSwaw"
+            "url": "https://i.ytimg.com/vi/6QXK7Bf8kQ4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDkRz7mUM-dKo1U3sS-WJhpkLSwaw"
           },
           {
             "layout": "vertical",
@@ -169,7 +169,7 @@
               {
                 "color": "#4A3C39",
                 "weight": "bold",
-                "text": "入善町定住促進住宅のお知らせ [4:45]",
+                "text": "児童手当の制度改正について [4:15]",
                 "type": "text",
                 "wrap": true
               },
@@ -179,7 +179,7 @@
                   {
                     "size": "xs",
                     "color": "#7A6C6A",
-                    "text": "視聴回数:608回",
+                    "text": "視聴回数:254回",
                     "type": "text"
                   }
                 ],
@@ -192,13 +192,13 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/9mBK-R-1bBM"
+          "uri": "https://youtu.be/6QXK7Bf8kQ4"
         },
         "type": "box"
       },
       {
         "layout": "horizontal",
-        "margin": "none",
+        "margin": "md",
         "contents": [
           {
             "layout": "horizontal",
@@ -224,10 +224,10 @@
             "margin": "sm",
             "size": "full",
             "gravity": "top",
-            "aspectMode": "fit",
-            "aspectRatio": "1.5:1",
+            "aspectMode": "cover",
+            "aspectRatio": "16:9",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/0uQ15ByqRsQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA_VWnvjhNHe6ZK-JWPKzYTiIrVTQ"
+            "url": "https://i.ytimg.com/vi/IzcNSVWjkNs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA_VWnvjhNHe6ZK-JWPKzYTiIrVTQ"
           },
           {
             "layout": "vertical",
@@ -236,7 +236,7 @@
               {
                 "color": "#4A3C39",
                 "weight": "bold",
-                "text": "要介護認定者に対する障害者控除対象者認定書[3:23]",
+                "text": "にゅうぜんフラワーロード2026[3:35]",
                 "type": "text",
                 "wrap": true
               },
@@ -246,7 +246,7 @@
                   {
                     "size": "xs",
                     "color": "#7A6C6A",
-                    "text": "視聴回数:473回",
+                    "text": "視聴回数:203回",
                     "type": "text"
                   }
                 ],
@@ -259,13 +259,13 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/0uQ15ByqRsQ"
+          "uri": "https://youtu.be/IzcNSVWjkNs"
         },
         "type": "box"
       },
       {
         "layout": "horizontal",
-        "margin": "none",
+        "margin": "md",
         "contents": [
           {
             "layout": "horizontal",
@@ -291,10 +291,10 @@
             "margin": "sm",
             "size": "full",
             "gravity": "top",
-            "aspectMode": "fit",
-            "aspectRatio": "1.5:1",
+            "aspectMode": "cover",
+            "aspectRatio": "16:9",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/6QXK7Bf8kQ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCgmrfYlb3exOQW8xLz999ppyp6Q"
+            "url": "https://i.ytimg.com/vi/UNmcnU2jSH0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCgmrfYlb3exOQW8xLz999ppyp6Q"
           },
           {
             "layout": "vertical",
@@ -303,7 +303,7 @@
               {
                 "color": "#4A3C39",
                 "weight": "bold",
-                "text": "【2024年】児童手当の制度改正について [4:15]",
+                "text": "小型特殊自動車のナンバー登録について [2:52]",
                 "type": "text",
                 "wrap": true
               },
@@ -313,7 +313,7 @@
                   {
                     "size": "xs",
                     "color": "#7A6C6A",
-                    "text": "視聴回数:334回",
+                    "text": "視聴回数:193回",
                     "type": "text"
                   }
                 ],
@@ -326,13 +326,13 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/6QXK7Bf8kQ4?si=URii-XaMKzXfGM7P"
+          "uri": "https://youtu.be/UNmcnU2jSH0"
         },
         "type": "box"
       },
       {
         "layout": "horizontal",
-        "margin": "none",
+        "margin": "md",
         "contents": [
           {
             "layout": "horizontal",
@@ -358,10 +358,10 @@
             "margin": "sm",
             "size": "full",
             "gravity": "top",
-            "aspectMode": "fit",
-            "aspectRatio": "1.5:1",
+            "aspectMode": "cover",
+            "aspectRatio": "16:9",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/UNmcnU2jSH0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCTwfzQaFZZc_pmMdBYGyx68t2VJw"
+            "url": "https://i.ytimg.com/vi/b3FyeqPZgcI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCTwfzQaFZZc_pmMdBYGyx68t2VJw"
           },
           {
             "layout": "vertical",
@@ -370,7 +370,7 @@
               {
                 "color": "#4A3C39",
                 "weight": "bold",
-                "text": "小型特殊自動車のナンバー登録について [2:52]",
+                "text": "運転免許自主返納者の公共交通利用支援事業について [5:02]",
                 "type": "text",
                 "wrap": true
               },
@@ -380,7 +380,7 @@
                   {
                     "size": "xs",
                     "color": "#7A6C6A",
-                    "text": "視聴回数:182回",
+                    "text": "視聴回数:112回",
                     "type": "text"
                   }
                 ],
@@ -393,7 +393,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/UNmcnU2jSH0?si=QsX-Sm-cRf7LVsOs"
+          "uri": "https://youtu.be/b3FyeqPZgcI"
         },
         "type": "box"
       }
