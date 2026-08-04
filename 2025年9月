@@ -49,7 +49,7 @@
             "color": "#ffffff",
             "size": "lg",
             "weight": "bold",
-            "text": "2026年3月（月間）",
+            "text": "2026年7月（月間）",
             "type": "text",
             "align": "center"
           }
@@ -112,7 +112,7 @@
                   {
                     "size": "xs",
                     "color": "#7A6C6A",
-                    "text": "視聴回数:403回",
+                    "text": "視聴回数:268回",
                     "type": "text"
                   }
                 ],
@@ -160,7 +160,7 @@
             "aspectMode": "cover",
             "aspectRatio": "16:9",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/6QXK7Bf8kQ4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDkRz7mUM-dKo1U3sS-WJhpkLSwaw"
+            "url": "https://i.ytimg.com/vi/OxMcUpmgu_Q/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDkRz7mUM-dKo1U3sS-WJhpkLSwaw"
           },
           {
             "layout": "vertical",
@@ -169,7 +169,7 @@
               {
                 "color": "#4A3C39",
                 "weight": "bold",
-                "text": "児童手当の制度改正について [4:15]",
+                "text": "ジャンボ〜ル三世重大報告記者会見 [4:19]",
                 "type": "text",
                 "wrap": true
               },
@@ -179,7 +179,7 @@
                   {
                     "size": "xs",
                     "color": "#7A6C6A",
-                    "text": "視聴回数:254回",
+                    "text": "視聴回数:186回",
                     "type": "text"
                   }
                 ],
@@ -192,7 +192,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/6QXK7Bf8kQ4"
+          "uri": "https://youtu.be/OxMcUpmgu_Q"
         },
         "type": "box"
       },
@@ -227,7 +227,7 @@
             "aspectMode": "cover",
             "aspectRatio": "16:9",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/IzcNSVWjkNs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA_VWnvjhNHe6ZK-JWPKzYTiIrVTQ"
+            "url": "https://i.ytimg.com/vi/UNmcnU2jSH0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA_VWnvjhNHe6ZK-JWPKzYTiIrVTQ"
           },
           {
             "layout": "vertical",
@@ -236,7 +236,7 @@
               {
                 "color": "#4A3C39",
                 "weight": "bold",
-                "text": "にゅうぜんフラワーロード2026[3:35]",
+                "text": "小型特殊自動車のナンバー登録について[2:52]",
                 "type": "text",
                 "wrap": true
               },
@@ -246,7 +246,7 @@
                   {
                     "size": "xs",
                     "color": "#7A6C6A",
-                    "text": "視聴回数:203回",
+                    "text": "視聴回数:165回",
                     "type": "text"
                   }
                 ],
@@ -259,7 +259,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/IzcNSVWjkNs"
+          "uri": "https://youtu.be/UNmcnU2jSH0"
         },
         "type": "box"
       },
@@ -294,7 +294,7 @@
             "aspectMode": "cover",
             "aspectRatio": "16:9",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/UNmcnU2jSH0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCgmrfYlb3exOQW8xLz999ppyp6Q"
+            "url": "https://i.ytimg.com/vi/9EJXJWHMd6g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCgmrfYlb3exOQW8xLz999ppyp6Q"
           },
           {
             "layout": "vertical",
@@ -303,7 +303,7 @@
               {
                 "color": "#4A3C39",
                 "weight": "bold",
-                "text": "小型特殊自動車のナンバー登録について [2:52]",
+                "text": "R8.6.11 入善町議会 令和8年6月定例会 一般質問 加藤裕子議員 [54:25]",
                 "type": "text",
                 "wrap": true
               },
@@ -313,7 +313,7 @@
                   {
                     "size": "xs",
                     "color": "#7A6C6A",
-                    "text": "視聴回数:193回",
+                    "text": "視聴回数:85回",
                     "type": "text"
                   }
                 ],
@@ -326,7 +326,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/UNmcnU2jSH0"
+          "uri": "https://youtu.be/9EJXJWHMd6g"
         },
         "type": "box"
       },
@@ -361,7 +361,7 @@
             "aspectMode": "cover",
             "aspectRatio": "16:9",
             "type": "image",
-            "url": "https://i.ytimg.com/vi/b3FyeqPZgcI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCTwfzQaFZZc_pmMdBYGyx68t2VJw"
+            "url": "https://i.ytimg.com/vi/hcpfRxif0Ho/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCTwfzQaFZZc_pmMdBYGyx68t2VJw"
           },
           {
             "layout": "vertical",
@@ -370,7 +370,7 @@
               {
                 "color": "#4A3C39",
                 "weight": "bold",
-                "text": "運転免許自主返納者の公共交通利用支援事業について [5:02]",
+                "text": "【音声読み上げ】広報入善 2026年7月号 [1:42:28]",
                 "type": "text",
                 "wrap": true
               },
@@ -380,7 +380,7 @@
                   {
                     "size": "xs",
                     "color": "#7A6C6A",
-                    "text": "視聴回数:112回",
+                    "text": "視聴回数:76回",
                     "type": "text"
                   }
                 ],
@@ -393,7 +393,7 @@
         "action": {
           "label": "action",
           "type": "uri",
-          "uri": "https://youtu.be/b3FyeqPZgcI"
+          "uri": "https://youtu.be/hcpfRxif0Ho"
         },
         "type": "box"
       }
